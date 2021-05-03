@@ -1,2 +1,2 @@
-# Innovaccion_Virtua
+# Innovaccion_Virtual
 Primer repocitorio
